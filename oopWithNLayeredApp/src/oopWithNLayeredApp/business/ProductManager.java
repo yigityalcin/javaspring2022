@@ -12,5 +12,5 @@ public class ProductManager {
 		
 		JdbcProductDao productDao = new JdbcProductDao();
 		productDao.add(product);
-	}
+	}......................
 }
